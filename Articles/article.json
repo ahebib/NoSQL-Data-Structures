@@ -6,7 +6,11 @@
 		"displayName": "Ammar"
 	},
 	"lastUpdated": "Thu Apr 08 2021 19:46:47 GMT-0400 (Eastern Daylight Time)",
-	"content": {
+	"workingCopy": {
+		"html": "<h1>Where To Start</h1>",
+		"dateSaved": "Fri Apr 09 2021 20:27:50 GMT-0400 (Eastern Daylight Time)"
+	},
+	"publishedCopy": {
 		"html": "<h1>Where To Start</h1>",
 		"dateSaved": "Thu Apr 08 2021 19:46:47 GMT-0400 (Eastern Daylight Time)"
 	}
