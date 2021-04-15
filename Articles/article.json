@@ -1,17 +1,17 @@
 {
-	"_id": "",
-	"title": "How to Structure Articles in a NOSQL Document",
-	"author": {
-		"username": "ammar",
-		"displayName": "Ammar"
+	_id: ObjectId(""),
+	title: "How to Structure Articles in a NOSQL Document",
+	author: {
+		username: "ammar",
+		displayName: "Ammar"
 	},
-	"lastUpdated": "Thu Apr 08 2021 19:46:47 GMT-0400 (Eastern Daylight Time)",
-	"workingCopy": {
-		"html": "<h1>Where To Start</h1>",
-		"dateSaved": "Fri Apr 09 2021 20:27:50 GMT-0400 (Eastern Daylight Time)"
+	lastUpdated: 2020-04-08T02:00:00.000+00:00,
+	workingCopy: {
+		html: "<h1>Where To Start</h1>",
+		dateSaved: 2020-04-09T03:00:00.000+00:00
 	},
-	"publishedCopy": {
-		"html": "<h1>Where To Start</h1>",
-		"dateSaved": "Thu Apr 08 2021 19:46:47 GMT-0400 (Eastern Daylight Time)"
+	publishedCopy: {
+		html: "<h1>Where To Start</h1>",
+		dateSaved: 2020-04-08T02:00:00.000+00:00
 	}
 }

@@ -1,18 +1,18 @@
 {
-	"_id": "",
-	"articleReference": "",
-	"drafts": [
+	_id: ObjectId(""),
+	articleReference: "",
+	drafts: [
 		{
-			"html": "<h1>Where To Start</h1>",
-			"dateSaved": "Fri Apr 09 2021 20:27:50 GMT-0400 (Eastern Daylight Time)"
+			html: "<h1>Where To Start</h1>",
+			dateSaved: 2020-04-09T03:00:00.000+00:00
 		},
 		{
-			"html": "<h1>Where To Start</h1>",
-			"dateSaved": "Thu Apr 08 2021 19:46:47 GMT-0400 (Eastern Daylight Time)"
+			html: "<h1>Where To Start</h1>",
+			dateSaved: 2020-04-08T02:00:00.000+00:00
 		},
 		{
-			"html": "",
-			"dateSaved": "Thu Apr 08 2021 19:37:00 GMT-0400 (Eastern Daylight Time)"
+			html: "",
+			dateSaved: 2020-04-08T01:00:00.000+00:00
 		}
 	]
 }
